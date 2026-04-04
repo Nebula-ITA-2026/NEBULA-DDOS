@@ -13,4 +13,6 @@ It is intended exclusively for study, security research, and ethical testing.
 1) CD (folder, for example documents)
 2) CD NebulaOsint
 3) pip install -r requirements.txt
-4) python3 ddos.py
+4) python3 ddos.py 
+OR
+1)
